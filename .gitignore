@@ -169,3 +169,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Системные файлы
+Icon?
+._*
+
+# Файлы приложения
+*.swp
+*.swo
